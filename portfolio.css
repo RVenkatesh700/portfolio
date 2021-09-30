@@ -229,8 +229,8 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container{
-  /*  display: flex;*/
-      align-items: center;
+    display: flex;
+    align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
     padding:1rem 0;
@@ -260,6 +260,7 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container .box b{
+    font-size: 1.4rem;
     color: white;
 }
 
@@ -393,19 +394,6 @@ header .navbar ul li a:hover{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* media queries  */
 
 @media (max-width:1200px){
@@ -475,3 +463,5 @@ header .navbar ul li a:hover{
     }
 
  }
+
+ 
