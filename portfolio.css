@@ -229,7 +229,7 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container{
-  /*  display: flex;*/
+    display: flex;
       align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
